@@ -5,7 +5,7 @@ class Database:
         self._users: List[Dict[str, Union[int, str, bool]]] = [
             {
                 'id': 1,
-                'name': 'Ivan Ivanov',
+                'name': 'Ivan Ivanovv',
                 'email': 'i.i.ivanov@mail.com',
             },
             {
